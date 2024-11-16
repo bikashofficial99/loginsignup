@@ -31,6 +31,10 @@ export default function Form(){
             <button className='active:scale-[.98] active:duration-75 hover:scale-[1.01] transition-all py-4 rounded-xl bg-violet-500 text-white text-lg font-bold '>Sign in</button>
             <button>Sign in with Goggle</button>
             </div>
+            <div className="mt-8 flex justify-center items-center">
+                <p className='font-medium text-base'>Don't have an account</p>
+                
+            </div>
             
             </div>
             </div>
