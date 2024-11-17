@@ -5,7 +5,7 @@ export default function Form(){
     return (
         <div className='bg-white px-10 py-20 rounded-3xl border-2 broder-gray-200'>
             <h1 className='text-5xl font-semibold'>Welcome Back</h1>
-            <p className='font-medium text-lg text-gray-500 mt-4'>Welcome back! Please enter your details.</p>
+            <p className='font-medium text-lg text-gray-500 mt-4'>Welcome back!! Please enter your details.</p>
             <div className='mt-8'>
                 <div>
                     <label className='text-lg font-medium'>Email</label>
